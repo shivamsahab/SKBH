@@ -1,0 +1,12 @@
+{
+  "name": "abcd-boys-hostel",
+  "version": "1.0.0",
+  "description": "Premium Student Residence Website for ABCD Boys Hostel",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
